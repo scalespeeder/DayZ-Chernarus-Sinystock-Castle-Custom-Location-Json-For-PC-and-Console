@@ -6,7 +6,7 @@ Limited Testing on PC Chernarus Local Server DAYZ Version 1.16 Apr 2021.
 
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
-If you'd like to edit my Bunker, simply load "sinystok-castle-editor.dze" into DayZ Editor.
+If you'd like to edit my Castle, simply load "sinystok-castle-editor.dze" into DayZ Editor.
 
 Many Thanks To Inclement Dab for his amazing DayZ Editor that makes this all possible: https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298
 
